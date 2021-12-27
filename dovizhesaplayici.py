@@ -6,7 +6,7 @@ ______________________________
 | Sürüm   : v1.1
 | Yapımcı : MID
 | Dil     : Python 3.9
-| Tarih   : 25/12/2021
+| Tarih   : 27/12/2021
 ______________________________
 
 Kullanim;
@@ -22,11 +22,11 @@ Kullanim;
 
 """)
 
-tl_usd = 0.094
-usd_tl = 10.99
+tl_usd = 0.087
+usd_tl = 11.47
 
-tl_eur = 0.082
-eur_tl = 11.45
+tl_eur = 0.077
+eur_tl = 13
 
 eur_usd = 1.13
 usd_eur = 0.88
